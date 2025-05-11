@@ -55,7 +55,7 @@ git clone https://github.com/yourusername/42-Heilbronn-Piscine.git
 cd 42-Heilbronn-Piscine/C_02/
 gcc -Wall -Wextra -Werror my_code.c -o my_program
 ./my_program
-
+```
 ---
 
 ## 🙏 Acknowledgments
