@@ -60,9 +60,9 @@ gcc -Wall -Wextra -Werror my_code.c -o my_program
 
 ## 🙏 Acknowledgments
 
-I would like to express my sincere gratitude to the following individuals and communities who were pivotal in my journey during the 42 Berlin Piscine:
+I would like to express my sincere gratitude to the following individuals and communities who were pivotal in my journey during the 42 Heilbronn Piscine:
 
-- **42 Berlin Staff** – For their unwavering support, guidance, and dedication throughout the Piscine.  
+- **42 Heilbronn Staff** – For their unwavering support, guidance, and dedication throughout the Piscine.  
 - **The Grizzlies** – For their constructive evaluations, which helped me identify key areas for growth and improvement.  
 - **Fellow Pisciners** – For the camaraderie, collaboration, and shared determination that made this journey unforgettable.  
 
