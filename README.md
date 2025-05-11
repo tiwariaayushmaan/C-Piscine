@@ -1,6 +1,6 @@
-# 42 Berlin Piscine – C Projects & Rush Challenges 🚀
+# 42 Heilbronn Piscine – C Projects & Rush Challenges 🚀
 
-This repository contains a comprehensive collection of all C projects and rush challenges completed during the 42 Berlin Piscine—an intensive, month-long immersion into the fundamentals of low-level programming, algorithmic thinking, and collaborative problem-solving. Each project reflects the learning curve and determination involved in this unique experience.
+This repository contains a comprehensive collection of all C projects and rush challenges completed during the 42 Heilbronn Piscine—an intensive, month-long immersion into the fundamentals of low-level programming, algorithmic thinking, and collaborative problem-solving. Each project reflects the learning curve and determination involved in this unique experience.
 
 ---
 
@@ -51,7 +51,32 @@ Weekend-long collaborative challenges designed to simulate real-world developmen
 To explore the projects locally:
 
 ```bash
-git clone https://github.com/yourusername/42-Berlin-Piscine.git
-cd 42-Berlin-Piscine/C_02/
+git clone https://github.com/yourusername/42-Heilbronn-Piscine.git
+cd 42-Heilbronn-Piscine/C_02/
 gcc -Wall -Wextra -Werror my_code.c -o my_program
 ./my_program
+
+---
+
+## 🙏 Acknowledgments
+
+I would like to express my sincere gratitude to the following individuals and communities who were pivotal in my journey during the 42 Berlin Piscine:
+
+- **42 Berlin Staff** – For their unwavering support, guidance, and dedication throughout the Piscine.  
+- **The Grizzlies** – For their constructive evaluations, which helped me identify key areas for growth and improvement.  
+- **Fellow Pisciners** – For the camaraderie, collaboration, and shared determination that made this journey unforgettable.  
+
+Your collective support was invaluable in helping me grow as a programmer and as an individual.
+
+---
+
+## 📬 Connect With Me
+
+I'm always open to discussions on programming, technology, and potential collaborations. Feel free to connect with me through any of the following platforms:
+
+- **GitHub**: [tiwariaayushmaan](https://github.com/tiwariaayushmaan)  
+- **LinkedIn**: [Aayushmaan Tiwari](https://www.linkedin.com/in/aayushmaan-tiwari/)  
+- **Email**: [aayushmaan.tiwari@tum.de](mailto:aayushmaan.tiwari@tum.de)  
+
+Let's connect, collaborate
+
