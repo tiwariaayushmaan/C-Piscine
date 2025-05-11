@@ -1,5 +1,5 @@
-42 Berlin Piscine – C Projects & Rush Challenges
-This repository contains a comprehensive collection of all C projects and rush challenges completed during the 42 Berlin Piscine—an intensive, month-long immersion into the fundamentals of low-level programming, algorithmic thinking, and collaborative problem-solving. Each project reflects the learning curve and determination involved in this unique experience.
+42 Heilbronn Piscine – C Projects & Rush Challenges
+This repository contains a comprehensive collection of all C projects and rush challenges completed during the 42 Heilbronn Piscine intensive, month-long immersion into the fundamentals of low-level programming, algorithmic thinking, and collaborative problem-solving. Each project reflects the learning curve and determination involved in this unique experience.
 
 📌 About the Piscine
 The Piscine (French for "swimming pool") is a rigorous 4-week selection program at 42, designed to evaluate programming aptitude and adaptability. Participants are immersed in the C programming language, with daily exercises, weekend rush challenges, and frequent peer evaluations. The process emphasizes self-directed learning, resilience, and collaboration.
@@ -52,8 +52,8 @@ To explore the projects locally:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/42-Berlin-Piscine.git
-cd 42-Berlin-Piscine/C_02/
+git clone https://github.com/yourusername/42-Heilbronn-Piscine.git
+cd 42-Heilbronn-Piscine/C_02/
 gcc -Wall -Wextra -Werror my_code.c -o my_program
 ./my_program
 Alternatively, use make in folders containing Makefiles for compilation.
@@ -61,7 +61,7 @@ Alternatively, use make in folders containing Makefiles for compilation.
 🙏 Acknowledgments
 I extend sincere thanks to the following contributors to this journey:
 
-42 Berlin Staff – For providing guidance, structure, and support
+42 Heilbronn Staff – For providing guidance, structure, and support
 
 Evaluation Team (The Grizzlies) – For insightful feedback that encouraged deeper reflection
 
