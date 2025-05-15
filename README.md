@@ -78,5 +78,5 @@ I'm always open to discussions on programming, technology, and potential collabo
 - **LinkedIn**: [Aayushmaan Tiwari](https://www.linkedin.com/in/aayushmaan-tiwari/)  
 - **Email**: [aayushmaan.tiwari@tum.de](mailto:aayushmaan.tiwari@tum.de)  
 
-Let's connect, collaborate kldfjg
+Let's connect, collaborate 
 
