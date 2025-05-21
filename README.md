@@ -80,5 +80,3 @@ I'm always open to discussions on programming, technology, and potential collabo
 
 Let's connect, collaborate 
 
-
-jjj
